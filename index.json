@@ -73,5 +73,10 @@
     "code": "zh_TW",
     "name": "繁體中文",
     "country": "臺灣"
-  }
+  },
+  {
+    "code": "ru_RU",
+    "name": "Русский",
+    "country": "Россия"
+  },
 ]
